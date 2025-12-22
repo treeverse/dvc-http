@@ -38,7 +38,7 @@ dependencies = [
 [project.optional-dependencies]
 dev = [
     "dvc-http[tests]",
-    "mypy==1.19.0",
+    "mypy==1.19.1",
     "types-requests",
 ]
 tests = [
